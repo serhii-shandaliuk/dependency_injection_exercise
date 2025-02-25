@@ -1,0 +1,4 @@
+services:
+  dependency_injection_exercise.photo_service:
+    class: Drupal\dependency_injection_exercise\Services\PhotoService
+    arguments: []
